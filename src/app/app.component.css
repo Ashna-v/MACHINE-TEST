@@ -1,0 +1,33 @@
+.example-card {
+    max-width: 1000px;
+    height: 550px;
+  }
+
+  #form1 { 
+    margin: 0 auto; 
+    width:450px;
+    border: 2px solid grey;
+    padding-top: 30px;
+    }
+
+mat-card-title{
+    text-align: center;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+
+  .mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+  }
+  
+
+  
